@@ -49,7 +49,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Link
 
-Deplyed Link: https://limitless-hamlet-17430.herokuapp.com/
+Deplyed Link: https://portfolio-react-beige-six.vercel.app/
 
 # Getting Started with Create React App
 
