@@ -27,7 +27,7 @@ function ProductAddToCart() {
             imgPath={Fashion}
             title="Fashion Freaks"
             ghLink="https://github.com/YeshNels/FashionFreaks"
-            demoLink=""
+            demoLink="https://young-reaches-17728.herokuapp.com/"
           />
 
           <ProjectCard
