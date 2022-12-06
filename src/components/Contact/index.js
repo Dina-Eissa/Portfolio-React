@@ -1,3 +1,4 @@
+import React from "react";
 import {
   Container,
   Flex,
@@ -21,7 +22,7 @@ import {
 import { MdOutlineEmail } from "react-icons/md";
 import { BsGithub, BsPerson } from "react-icons/bs";
 import { FaLinkedin } from "react-icons/fa";
-import React, { useState } from "react";
+import { useState } from "react";
 
 // Here we import a helper function that will check if the email is valid
 import { validateEmail } from "../../utils/helpers";

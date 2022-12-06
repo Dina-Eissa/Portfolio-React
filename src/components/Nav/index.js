@@ -1,3 +1,4 @@
+import React from "react";
 import {
   Box,
   Flex,
@@ -93,12 +94,7 @@ export default function Simple() {
                 cursor={"pointer"}
                 minW={0}
               >
-                <Avatar
-                  size={"sm"}
-                  src={
-                    "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.18169-9/12301466_10153798821365799_8603215130777176318_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=174925&_nc_ohc=SPa_dk1zlLwAX92O_mx&_nc_ht=scontent-sjc3-1.xx&oh=00_AfAfeiuSV-gIbca42O_YiT_Df_IMc7_gj45bVlgIiF6B1Q&oe=63B12545"
-                  }
-                />
+                <Avatar size={"sm"} src={"./assets/image/dina.jpg"} />
               </MenuButton>
             </Menu>
           </Flex>
