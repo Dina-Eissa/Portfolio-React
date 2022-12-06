@@ -1,4 +1,5 @@
 import React from "react";
+import Dina from "../../assets/image/dina.jpg";
 import {
   Box,
   Flex,
@@ -94,10 +95,7 @@ export default function Simple() {
                 cursor={"pointer"}
                 minW={0}
               >
-                <Avatar
-                  size={"sm"}
-                  src="https://raw.githubusercontent.com/Dina-Eissa/Portfolio-React/main/src/assets/image/dina.jpg"
-                />
+                <Avatar size={"sm"} src={Dina} />
               </MenuButton>
             </Menu>
           </Flex>

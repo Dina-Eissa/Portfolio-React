@@ -1,4 +1,5 @@
 import React from "react";
+import Profile from "../../assets/image/profile.jpg";
 import {
   Container,
   Stack,
@@ -72,9 +73,7 @@ export default function Header() {
               align={"center"}
               w={"100%"}
               h={"100%"}
-              src={
-                "https://media.istockphoto.com/id/500954400/photo/computer-coffee-mug-telephone-on-black-wood-table-sun-rising.jpg?s=612x612&w=0&k=20&c=AWZgqePKVZQ30tKTRtZQlrWSd1ycwGpVtr1tRbDmn8o="
-              }
+              src={Profile}
             />
           </Box>
         </Flex>
