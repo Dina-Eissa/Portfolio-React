@@ -30,7 +30,7 @@ export default function socialProfileWithImageHorizontal() {
               height="100px"
               width="100px"
               borderRadius="lg"
-              src="../assets/image/profile.jpg"
+              src="https://raw.githubusercontent.com/Dina-Eissa/Portfolio-React/main/src/assets/image/profile.jpg"
             />
           </Flex>
         </SimpleGrid>

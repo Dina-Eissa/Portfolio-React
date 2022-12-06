@@ -94,7 +94,10 @@ export default function Simple() {
                 cursor={"pointer"}
                 minW={0}
               >
-                <Avatar size={"sm"} src={"./assets/image/dina.jpg"} />
+                <Avatar
+                  size={"sm"}
+                  src="https://raw.githubusercontent.com/Dina-Eissa/Portfolio-React/main/src/assets/image/dina.jpg"
+                />
               </MenuButton>
             </Menu>
           </Flex>
