@@ -4,6 +4,7 @@ import ProjectCard from "../components/ProjectOne";
 import Fashion from "../assets/image/Fashion.jpg";
 import Event from "../assets/image/event.jpg";
 import Tech from "../assets/image/4.jpg";
+import Scheduler from "../assets/image/2.jpg";
 import Weather from "../assets/image/Weather.jpg";
 import Airsoup from "../assets/image/airsoup.jpg";
 
@@ -58,6 +59,13 @@ function ProductAddToCart() {
             title="Tech Blog"
             ghLink="https://github.com/Dina-Eissa/tech_blog"
             demoLink="https://nameless-shore-20267.herokuapp.com/"
+          />
+          <ProjectCard
+            maxW="md"
+            imgPath={Scheduler}
+            title="Work Day Scheduler"
+            ghLink="https://github.com/Dina-Eissa/Work-Day-Scheduler"
+            demoLink="https://dina-eissa.github.io/Work-Day-Scheduler/"
           />
         </SimpleGrid>
       </Flex>
