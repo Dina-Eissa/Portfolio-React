@@ -1,4 +1,6 @@
 import React from "react";
+import Profile from "../../assets/image/profile.jpg";
+
 import {
   Center,
   Flex,
@@ -30,7 +32,7 @@ export default function socialProfileWithImageHorizontal() {
               height="100px"
               width="100px"
               borderRadius="lg"
-              src="https://raw.githubusercontent.com/Dina-Eissa/Portfolio-React/main/src/assets/image/profile.jpg"
+              src={Profile}
             />
           </Flex>
         </SimpleGrid>

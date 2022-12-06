@@ -1,5 +1,6 @@
 import React from "react";
-import Profile from "../../assets/image/profile.jpg";
+import HeadImage from "../../assets/image/header.jpg";
+
 import {
   Container,
   Stack,
@@ -73,7 +74,7 @@ export default function Header() {
               align={"center"}
               w={"100%"}
               h={"100%"}
-              src={Profile}
+              src={HeadImage}
             />
           </Box>
         </Flex>
