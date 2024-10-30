@@ -27,7 +27,7 @@ function ProductAddToCart() {
             imgPath={Fashion}
             title="Fashion Freaks"
             ghLink="https://github.com/YeshNels/FashionFreaks"
-            demoLink="https://young-reaches-17728.herokuapp.com/"
+            demoLink="https://fashion-freaks.vercel.app/"
           />
 
           <ProjectCard
@@ -35,7 +35,7 @@ function ProductAddToCart() {
             imgPath={Event}
             title="Lumivent"
             ghLink="https://github.com/noahwesttech/Group-Event-Planner"
-            demoLink="https://lumivent.herokuapp.com/"
+            demoLink="https://lumivent-planner.herokuapp.com/login"
           />
 
           <ProjectCard
