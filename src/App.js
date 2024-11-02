@@ -7,7 +7,7 @@ import {
 } from "react-router-dom";
 import Nav from "./components/Nav";
 import Home from "./pages/Home";
-import Projects from "./pages/Projects";
+import Projects from "./pages/Work";
 import Resume from "./pages/Resume";
 import Footer from "./components/Footer";
 import Contact from "./components/Contact";
