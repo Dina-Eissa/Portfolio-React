@@ -1,5 +1,5 @@
 import React from "react";
-import HeadImage from "../../assets/image/header.jpg";
+import HeadImage from "assets/img/develop.jpg";
 
 import {
   Container,
