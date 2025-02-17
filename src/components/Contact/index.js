@@ -175,7 +175,7 @@ function Contact() {
               </WrapItem>
               <WrapItem justifyContent="center" w="100%">
                 <HStack spacing={5} px={5} alignItems="flex-start">
-                  <Link href="https://www.linkedin.com/in/dinameissa/">
+                  <Link href="www.linkedin.com/in/dina-m-shawki-eissa">
                     <IconButton
                       aria-label="Linkedin"
                       variant="ghost"
