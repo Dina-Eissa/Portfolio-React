@@ -65,7 +65,7 @@ export default function SmallWithSocial() {
           </SocialButton>
           <SocialButton
             label={"Linkedin"}
-            href={"https://www.linkedin.com/in/dinameissa/"}
+            href={"www.linkedin.com/in/dina-m-shawki-eissa"}
           >
             <FaLinkedin />
           </SocialButton>
